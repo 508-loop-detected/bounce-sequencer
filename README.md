@@ -1,6 +1,6 @@
 # Bounce Sequencer
 
-<img src="bounce-sequencer.JPG" width=400>
+<img src="bounce-alone.jpg" width=400>
 
 An 8-step sequencer with a pushbutton interface. Toggle switch selects up / down / or bounce mode. In up or down mode, pushing any two buttons will cause the sequencer to skip the steps between them (either between them on the inside, or between them on the outside, depending).
 
