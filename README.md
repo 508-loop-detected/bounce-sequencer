@@ -1,6 +1,6 @@
 # Bounce Sequencer
 
-<img src="bounce-plus-triggers.JPG" width=500>
+<img src="bounce-sequencer.JPG" width=400>
 
 An 8-step sequencer with a pushbutton interface. Toggle switch selects up / down / or bounce mode. In up or down mode, pushing any two buttons will cause the sequencer to skip the steps between them (either between them on the inside, or between them on the outside, depending).
 
@@ -15,3 +15,5 @@ In addition to the main clock input and the main sequence CV output, there are t
 - a one-half division of the clock
 
 There is an expansion bus on the back for driving the optional 8-step trigger sequencer.
+
+<img src="bounce-plus-triggers.JPG" width=600>
