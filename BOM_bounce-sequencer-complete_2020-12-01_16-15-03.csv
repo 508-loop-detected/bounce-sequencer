@@ -1,0 +1,46 @@
+ID,Name,Designator,Footprint,Quantity,Location,Source
+1,100pF,"C49,C54",C0805,2,BACK,
+2,CD4070BM96,"U1,U2",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,2,BACK,3.9mm width!!
+3,CD4532BE,U26,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+4,5-pin female 2mm header,"H2,H9,H4,H8, H7,H6,H5,H3",HDR-TH_5P-P2.00-V-M,8,BACK,https://www.taydaelectronics.com/connectors-sockets/pin-headers/5-pin-2-00-mm-single-row-female-pin-header.html
+5,CD4042BDR,U11,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+6,CD40106BM96,"U18,U15",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,2,BACK,3.9mm width!!
+7,10k,"VR5,VR1",PV36W-MULTITURN-TRIMMER,2,BACK,
+8,CD4029BCSJ,U28,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+9,DG409DY-E3,U19,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+10,CD4013BM,"U12,U25",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,2,BACK,3.9mm width!!
+11,DG408DY-E3,U17,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+12,CD4028BM96,U27,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+13,Ferrite,"F8,F7",Ferrite bead on lead,2,BACK,
+14,100k,"R17,R30,R23,R24, R25,R26,R18,R27, R19,R46,R20,R21,R28",R0805,13,BACK,
+15,47k,R22,R0805,1,BACK,
+16,150k,"R29,R45",R0805,2,BACK,
+17,0.1uF,"C16,C26,C44,C12, C4,C6,C7,C59,C43, C15,C14,C13,C11, C42,C3,C5,C1, C25,C9,C8,C10",C0805,21,BACK,
+18,0.01uF,C33,C0805,1,BACK,
+19,0.33uF,C32,C0805,1,BACK,
+20,IDC Box 2.54mm 2X5P,P4,EURO_PWR_HEADER_LOCK,1,BACK,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/10-pin-box-header-connector-2-54mm.html
+21,CD4081BM,U13,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,BACK,3.9mm width!!
+22,TL072IDT,U16,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,1,BACK,
+23,HDR-IDC-2.54-2X4P,P1,IDC-TH_8P-P2.54-V-R2-C4-S2.54,1,BACK,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/8-pin-box-header-connector-2-54mm.html
+24,47nF,C2,C0805,1,BACK,
+25,1N5819,"D8,D5",DO-41,2,BACK,
+26,4-pin female 2mm header,H1,HDR-TH_4P-P2.00-V-M,1,BACK,https://www.taydaelectronics.com/connectors-sockets/pin-headers/4-pin-2-00-mm-single-row-female-pin-header.html
+27,10uF,"C48,C47",CAP-D5.0XF2.0,2,BACK,
+28,1N4148,"D27,D26,D25,D24, D23,D22,D21,D20,D19",SOD-80_L3.5-W1.5-FD,9,BACK,
+29,L78L05ACZTR,U14,TO-92-3_L4.8-W3.7-P2.54-L,1,BACK,
+30,TL074_SMD,"U9D,U1D,U2D",SO14,3,BACK,
+1,B100k,"VR7,VR4,VR3,VR2, VR8,VR1,VR5,VR6",9MM_SNAP-IN_POT,8,FRONT,
+2,THONKICONNNEW,"EVENS-OUT,HALFCLK-OUT, MAIN-OUT,ODDS-OUT,CLK1",THONKICONN-TIGHT,5,FRONT,
+3,5-pin male 2mm header,"H3,H4,H7,H9, H2,H8,H5,H6",HDR-TH_5P-P2.00-V-M,8,FRONT,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html
+4,DPDT-LED-PUSHBUTTON,"S1,S6,S8,S7, S2,S4,S3,S5",DPDT-LED-PUSHBUTTON,8,FRONT,https://www.mouser.com/ProductDetail/Well-Buying/PS004-L22NPR1AXTURXX?qs=QTW8DiaQKovyZsGb58sYPQ%3D%3D
+5,2N3904(TO-92),Q1,TO92,1,FRONT,
+6,4.7k,"R16,R1,R12,R10, R14,R7,R5,R3",R0805,8,FRONT,
+7,3.3k,"R13,R2,R11,R9, R15,R8,R6,R4",R0805,8,FRONT,
+8,SUBMINI_SPDT ON-ON,"HOLD,OCT",SUBMINI_TOGGLE,2,FRONT,Thonk has these
+9,100k,R57,R0805,1,FRONT,
+10,10k,R56,R0805,1,FRONT,
+11,Submini DPDT On-Off-On,UPDOWN,SUBMINI TOGGLE SWITCH DPDT ON-ON,1,FRONT,http://smallbear-electronics.mybigcommerce.com/dpdt-on-on-on-sub-mini/
+12,4-pin male 2mm header,H1,HDR-TH_4P-P2.00-V-M,1,FRONT,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html
+13,1N4148,"D10,D17,D15,D14, D13,D12,D11,D18, D16,D9,D7,D6,D4, D3,D2,D1",SOD-80_L3.5-W1.5-FD,16,FRONT,
+,Standoffs,,1/4” 4-40,4,,https://www.mouser.com/ProductDetail/761-2053-440-AL-7
+,Screws,,3/16” 4-40,8,,
