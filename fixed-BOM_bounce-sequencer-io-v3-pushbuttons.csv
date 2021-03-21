@@ -1,0 +1,14 @@
+ID,Name,Designator,Footprint,Quantity,Source Link
+1,1N4148,"D1, D2, D3, D4, D6, D7, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18",SOD-80_L3.5-W1.5-FD,16,
+2,X4611WV-05I-C28D40,"H1, H2, H3, H4, H5, H6, H7, H8, H9",HDR-TH_5P-P2.00-V-M,9,https://www.taydaelectronics.com/connectors-sockets/pin-headers/5-pin-2-00-mm-single-row-female-pin-header.html
+3,THONKICONNNEW,"EVENS-OUT, HALFCLK-OUT, MAIN-OUT, ODDS-OUT, CLK1",THONKICONN-TIGHT,5,
+4,SUBMINI_SPDT,"HOLD, OCT",SUBMINI_TOGGLE ON-ON,2,
+5,2N3904(TO-92),Q1,TO92,1,
+6,3.3k,"R2, R4, R6, R8, R9, R11, R13, R15",R0805,8,
+7,4.7k,"R1, R3, R5, R7, R10, R12, R14, R16",R0805,8,
+8,10k,R56,R0805,1,
+9,100k,R57,R0805,1,
+10,DPDT-LED-PUSHBUTTON,"S1, S2, S3, S4, S5, S6, S7, S8",DPDT-LED-PUSHBUTTON,8,https://www.mouser.com/ProductDetail/Well-Buying/PS004-L22NPR1AXTURXX?qs=QTW8DiaQKovyZsGb58sYPQ%3D%3D
+11,Submini DPDT On-Off-On,UPDOWN,SUBMINI TOGGLE SWITCH DPDT ON-OFF-ON,1,
+12,B100k,"VR1, VR2, VR3, VR4, VR5, VR6, VR7, VR8",9MM_SNAP-IN_POT T-18,8,
+13,knobs,,Slim T-18 Knob,8,https://www.thonk.co.uk/shop/tall-trimmer-toppers/
