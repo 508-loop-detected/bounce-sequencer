@@ -17,3 +17,7 @@ In addition to the main clock input and the main sequence CV output, there are t
 There is an expansion bus on the back for driving the optional 8-step trigger sequencer.
 
 <img src="bounce-plus-triggers.JPG" width=600>
+
+NEW: It also comes in a toggle-switches version
+
+<img src="toggles.jpg" width=600>
