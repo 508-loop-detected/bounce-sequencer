@@ -21,3 +21,5 @@ There is an expansion bus on the back for driving the optional 8-step trigger se
 NEW: It also comes in a toggle-switches version
 
 <img src="toggles.jpg" width=600>
+
+PCBs + Panels are available for sale on my website: https://508.loopdetected.net/product/bounce-sequencer-pcbpanel-pushbutton-version/
